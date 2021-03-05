@@ -8,4 +8,6 @@
 # How To start 
 • Type: `node index.js` on your console to start
 
+# Host On Glitch 
+[Click Here to Host On Glitch](https://glitch.com/edit/#!/import/git?url=https://github.com/ZeroDiscord/Welcomer/)
 Enjoy And Give A start To this repo!
